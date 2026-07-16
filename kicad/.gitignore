@@ -1,0 +1,8 @@
+fabrication-toolkit-options.json
+fp-info-cache
+kbplacer.log
+my_split_keyboard_l.step
+*.json
+*-backups/
+production
+*-bak
